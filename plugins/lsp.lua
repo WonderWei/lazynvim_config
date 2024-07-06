@@ -8,7 +8,6 @@ return {
           opts.capabilities.offsetEncoding = { "utf-16" }
         end,
       },
-      autoformat = false,
     },
   },
 }
